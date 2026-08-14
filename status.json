@@ -9,7 +9,7 @@
   "disk_free_pct": 68.7,
   "disk_state": "ok",
   "feed_name": "sip",
-  "generated_at_utc": "2026-08-14T02:25:01Z",
+  "generated_at_utc": "2026-08-14T02:30:01Z",
   "journal_frames": 25401174,
   "messages_total": 212985093,
   "parquet_files": 4389,
@@ -21,5 +21,5 @@
   "socket_connected": true,
   "tape_open": false,
   "unmapped_status_code_count": 0,
-  "uptime_hours": 50.41
+  "uptime_hours": 50.49
 }
