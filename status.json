@@ -9,17 +9,17 @@
   "disk_free_pct": 65.7,
   "disk_state": "ok",
   "feed_name": "sip",
-  "generated_at_utc": "2026-08-15T20:10:02Z",
+  "generated_at_utc": "2026-08-15T20:15:02Z",
   "journal_frames": 37922539,
   "messages_total": 314841546,
   "parquet_files": 6556,
   "parquet_rows": 314841297,
-  "ping_rtt_ms": 9.44,
+  "ping_rtt_ms": 9.8,
   "reconnects": 123,
   "schema_version": "1",
-  "seconds_since_pong": 14.9,
+  "seconds_since_pong": 14.8,
   "socket_connected": true,
   "tape_open": false,
   "unmapped_status_code_count": 0,
-  "uptime_hours": 92.16
+  "uptime_hours": 92.24
 }
