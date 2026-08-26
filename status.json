@@ -9,7 +9,7 @@
   "disk_free_pct": 70.0,
   "disk_state": "ok",
   "feed_name": "sip",
-  "generated_at_utc": "2026-08-26T08:10:01Z",
+  "generated_at_utc": "2026-08-26T08:15:01Z",
   "journal_frames": 0,
   "messages_total": 0,
   "parquet_files": 0,
